@@ -5,5 +5,5 @@ print('Nairobi')
 
 #Adding two numbers a and b
 
-#print("My nameis Samson Mwangi")
+print("My nameis Samson Mwangi")
  
