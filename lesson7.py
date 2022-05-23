@@ -20,4 +20,9 @@ Motorcycle =("Bugatti")
 #print("my name is"), +  str (moorcycle_owner),"and i own", str(plate_number)
 #remove an item from a list
 #motorcycle.remove('yamaha')
-print('motorcycle')
+#p
+#print('motorcycle')
+#print("Monday\tTuesday\twenesday")
+radius = input("radius")
+pi = 3.142
+area = pi*int(ra)
