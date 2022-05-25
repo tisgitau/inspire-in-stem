@@ -2,7 +2,15 @@
 
 ### WEEK1 :INTRODUCTION TO PYTHON
 Day 1:installing python
-
+Day 1:Git commands:
+              git add *
+              git commit -m "lessons"
+              git branch -m main
+              git config --global user.name"tisgitau"
+              git config --user.email"gitausamson67@gmail.com"
+              git remote add main www.github/tisgitau/Inspire-in -STEM.git
+              
+       
 Add a link to python download
 Add a link to downloading vs code
 Strings
