@@ -16,4 +16,5 @@ for number in range(0,9):
 #this is an example of print star pyramid
 # n = int(input(7)) 
 for number in range(1,11):
-    print(number,"*****")   
+    print(number,"*****")  
+     
