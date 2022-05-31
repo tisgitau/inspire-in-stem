@@ -1,7 +1,4 @@
-#1/user/bin/python
-#name : Sam Gitau
-#date : 25/5/2022
-#A dictionary is a collection of key values
+
 #syntax: dictionary = 
 # 
 #{"key":"value"}
@@ -27,12 +24,13 @@ person  ["colour"]={'red'}
 #print(person['gender'])
 #print(person['gender']) 
 #print(person.get ("password','the'residence'key is non existant"))  
-mary_fav_food=['beef','chips','vegetables']
-jane_fav_food=['rice','ugali','potatoes']
+#mary_fav_food=['beef','chips','vegetables']
+#jane_fav_food=['rice','ugali','potatoes']
 fav_food ={
-    'Mary':'beef''chips''vegetables',
-    'Jane':'rice'}
+    'Mary':['beef''chips''vegetables'],
+    'Jane':['rice','ugali','potatoes']}
+for key,value in fav_food.items():
+    print(f'{key}':'{value}')
 #print(fav_food)
-person = {'name':'Jane','email':'jane@67','password':'12345'
-,             'name':'Mary','email':'mary@67','password':'9876'}
-print(person)
+#person = {'name':'Jane','email':'jane@67','password':'12345  }          'name':'Mary','email':'mary@67','password':'9876'}
+#print(person)

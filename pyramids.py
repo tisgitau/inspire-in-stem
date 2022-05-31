@@ -1,7 +1,7 @@
-round
-
-
-
+#1/user/bin/##
+#date : 27/5/2022
+#name : Sam Gitau
+#printing pyramids
 rows = int(input("number of rows:")) 
 for i in range (rows):
     for j in  range(i+1):
