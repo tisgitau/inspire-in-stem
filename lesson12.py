@@ -1,6 +1,4 @@
-#1/user/bin/python
-#name : Sam Gitau
-#date : 24/5/2022
+
 #loops : for loops with list
 age = 12
 if age >= 18:
