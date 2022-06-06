@@ -30,7 +30,7 @@ fav_food ={
     'Mary':['beef''chips''vegetables'],
     'Jane':['rice','ugali','potatoes']}
 for key,value in fav_food.items():
-    print(f'{key}':'{value}')
+    print( f'{key}''{value}')
 #print(fav_food)
 #person = {'name':'Jane','email':'jane@67','password':'12345  }          'name':'Mary','email':'mary@67','password':'9876'}
 #print(person)

@@ -1,0 +1,13 @@
+This is a normal text file
+Learning python is fun 
+Today is a windy day 
+f = open("lesson.txt")
+f = open("lesson.txt",'w')
+r = reading
+w = writting
+x = create new file 
+a = opens file for appending at end 
+b = opens a file in binary mode
+f = open("lessons.txt",'x')
+t = opens file text mode 
+NB:Text mode

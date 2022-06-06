@@ -8,10 +8,15 @@ characters = '4543567'
 #comment the num_passwords in integers
 #ask user for password length
 
-number_of_passwords = int(input("Enter number of passwords"))
-length_of_passwords = int (input("Enter length of password"))
-for password in range(number_of_passwords):
-    password = " "
-    for c in range(length_of_passwords):
-        password+= random.choice(characters)
-    print(password)
+#number_of_passwords = int(input("Enter number of passwords"))
+#length_of_passwords = int (input("Enter length of password"))
+#for password in range(number_of_passwords):
+    #password = " "
+    #for c in range(length_of_passwords):
+        #password+= random.choice(characters)
+    #print(password)
+
+    
+
+
+
