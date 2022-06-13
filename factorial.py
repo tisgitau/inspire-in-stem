@@ -1,6 +1,11 @@
+
 #1/user/bin/python
-#name : Sam Gitau
-#date : 27/5/2022
+
+############
+#  Name : Sam Gitau
+#  Date:27/5/2022
+#################
+
 number = int(input("enter the number"))
 factorial=1
 if number<0:

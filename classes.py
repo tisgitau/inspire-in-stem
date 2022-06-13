@@ -1,6 +1,11 @@
-#1/user/bin/##
-#date : 2/5/2022
-#name : Sam Gitau
+
+#1/user/bin/python
+
+############
+#  Name : Sam Gitau
+#  Date:24/5/2022
+#################
+
 #using classes
 #def dog (name , age):
     #print(f"the name of the dogis{name}age is{age}")

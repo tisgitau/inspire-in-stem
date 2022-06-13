@@ -1,6 +1,10 @@
+
 #1/user/bin/python
-#name : Sam Gitau
-#date : 24/5/2022
+
+############
+#  Name : Sam Gitau
+#  Date:24/5/2022
+#################
 #loops : for loops with 
 #write aprogram to withdraw 2500 if acc bal is between 100000 to 200000
 acc_bal = input ("enter you acc bal")

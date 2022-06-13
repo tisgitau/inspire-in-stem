@@ -1,10 +1,15 @@
+
 #1/user/bin/python
-#name : Sam Gitau
-#date : 27/5/2022
+
+############
+#  Name : Sam Gitau
+#  Date:27/5/2022
+#################
 #arithmetric_progretion
 #a =first term
 #d = common diffrence
 #n= number of terms
+
 from this import d
 
 

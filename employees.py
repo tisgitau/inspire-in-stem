@@ -1,6 +1,11 @@
-#1/user/bin/##
-#date : 2/5/2022
-#name : Sam Gitau
+
+#1/user/bin/python
+
+############
+#  Name : Sam Gitau
+#  Date:24/5/2022
+#################
+
 #write a programme to print name , age , id number and salary
 class employee:
     def __init__(self,_name , _age ,_idnumber,_salary):

@@ -1,4 +1,10 @@
 
+#1/user/bin/python
+
+############
+#  Name : Sam Gitau
+#  Date:30/5/2022
+#################
 
 
 f=open("lesson.txt")

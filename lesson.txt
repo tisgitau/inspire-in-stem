@@ -1,3 +1,11 @@
+
+#1/user/bin/python
+
+############
+#  Name : Sam Gitau
+#  Date:7/6/2022
+#################
+
 This is a normal text file
 Learning python is fun 
 Today is a windy day 
